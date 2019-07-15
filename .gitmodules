@@ -1,0 +1,9 @@
+[submodule "1.vue-basics"]
+	path = 1.vue-basics
+	url = https://github.com/iam-raihan/vue-basics.git
+[submodule "2.vue-quiz-app"]
+	path = 2.vue-quiz-app
+	url = https://github.com/iam-raihan/vue-quiz-app.git
+[submodule "3.vue-crud-sample"]
+	path = 3.vue-crud-sample
+	url = https://github.com/iam-raihan/vue-crud-sample.git
